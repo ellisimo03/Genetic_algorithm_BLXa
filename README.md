@@ -22,3 +22,5 @@ population based global search method. My novel variant aspect of this task will
 implementing a ‘Blend Crossover’ which will encourage a range of different offspring 
 produced and reduce the likelihood of the GA prematurely converging due to population 
 lacking in diversity.
+
+There are two files, one with the Blend Crossover and another with an Arithmeitic Crossover. You can compare the two and also see the difference in performances.
