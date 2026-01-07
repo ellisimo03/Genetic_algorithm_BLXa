@@ -1,13 +1,7 @@
-# CS3CI Experimental Study – Evolutionary (Genetic) Algorithm while also Implementing a 
-# Blend Crossover (BLX-α Crossover) 
-# By Ellis Rogers Loredo – 220184634 
-# Aston University 
-# Computer Science 
-# Computational Intelligence (CS3CI) 
-# December 2025 
+# CS3CI Experimental Study – Evolutionary (Genetic) Algorithm while also Implementing a Blend Crossover (BLX-α Crossover) 
+-- By Ellis Rogers Loredo 
 - Introduction
-
--  
+ 
 The work I am presenting here is part of the module ‘Computational Intelligence’ (CI). 
 The task is to predict the daily demand of a logistics company based on their 13 demand 
 indicators collected at midday. The prediction model uses 14 parameters, one being a 
