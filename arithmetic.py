@@ -4,7 +4,7 @@ import time
 import pandas as pd
 import sys
 
-random.seed(30)
+random.seed(10)
 
 populationSize = 100
 NoOfGenerations = 2000
